@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "lab-7-for-cloudflare",
+  "compatibility_date": "2026-05-31",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "lab7cloudflare"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
